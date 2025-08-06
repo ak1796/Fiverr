@@ -1,0 +1,8 @@
+# Node dependencies
+node_modules/
+
+
+# dotenv files
+.env
+.env.local
+.env.production
